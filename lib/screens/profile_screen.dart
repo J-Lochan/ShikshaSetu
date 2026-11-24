@@ -12,7 +12,7 @@ class ProfileScreen extends StatelessWidget {
       ),
       body: const Center(
         child: Text(
-          "Name = Aditya",
+          "Name = J. Lochan",
           style: TextStyle(fontSize: 30),
         ),
       ),

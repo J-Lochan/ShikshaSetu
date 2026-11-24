@@ -7,7 +7,7 @@ class ContactMentorScreen extends StatelessWidget {
   Future<void> _sendEmail() async {
     final Uri emailLaunchUri = Uri(
       scheme: 'mailto',
-      path: 'kaditya@gitam.in',
+      path: 'lochannarayanarao@gmail.com',
       query: 'subject=Student Support&body=Hello Mentor,',
     );
 
